@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0390/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 右繞佛塔功德經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0700.xml
+    old_id: T16n0700
+hash: sha256:bfd4eb6ddc5545b7c186c43500397eaf3494edced387776ff2a7af4586462e9d
