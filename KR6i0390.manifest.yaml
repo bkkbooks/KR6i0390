@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0390_000.yaml, hash: 'sha256:bfd4eb6ddc5545b7c186c43500397eaf3494edced387776ff2a7af4586462e9d'}
-  - {seq: 1, filename: KR6i0390_001.yaml, hash: 'sha256:8d3e210b28b211743968288f0b76708af10ab04159e0a853d6a5fff6140b474b'}
+  - {seq: 1, filename: KR6i0390_001.yaml, hash: 'sha256:4bb32fd72fad90864e7d19165be102af737a3fd5dd602e4c9159fffc07e99cb8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0390_001.markers.yaml, hash: 'sha256:f94ea80b9306aa3e926a42ab40db939f91c5a5a4cd5473243daa2effc08df24d'}
+  - {seq: 0, role: markers, filename: assets/KR6i0390_000.markers.yaml, hash: 'sha256:5a41ebf16f6478a9718d5afb5d3ca98aea41280dabfda22b2559821cc892a3f6'}
+  - {seq: 1, role: markers, filename: assets/KR6i0390_001.markers.yaml, hash: 'sha256:1be6f7b5a101cbd0db988ac77c41d7531f5d6fa15d13573e4c98fd00ed7fcb95'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 右繞佛塔功德經
   type: juan
   level: 1
-hash: sha256:207661ad777a94e089bda08c8144c8160789335275856a2f2370e69110fe6989
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:dab149eae0ff46c94c6f6f468a017767e9db4381141bf93844a6adb158e249ef
