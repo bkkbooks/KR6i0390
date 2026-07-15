@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0390/v1
 canonical_location: https://kanripo.org/bkk/KR6i0390/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 右繞佛塔功德經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0390_000.yaml, hash: 'sha256:bfd4eb6ddc5545b7c186c43500397eaf3494edced387776ff2a7af4586462e9d'}
-  - {seq: 1, filename: KR6i0390_001.yaml, hash: 'sha256:4bb32fd72fad90864e7d19165be102af737a3fd5dd602e4c9159fffc07e99cb8'}
+  - {seq: 1, filename: KR6i0390_001.yaml, hash: 'sha256:b0e44fe583220374ce3070c7e785750ea78e7aa97e108728805ee1437b5d709f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0390_000.markers.yaml, hash: 'sha256:5a41ebf16f6478a9718d5afb5d3ca98aea41280dabfda22b2559821cc892a3f6'}
-  - {seq: 1, role: markers, filename: assets/KR6i0390_001.markers.yaml, hash: 'sha256:1be6f7b5a101cbd0db988ac77c41d7531f5d6fa15d13573e4c98fd00ed7fcb95'}
+  - {seq: 1, role: markers, filename: assets/KR6i0390_001.markers.yaml, hash: 'sha256:de6e68a5e21fc43c42667fcf39345b52c8d6158b3bb4a12262dd02dc0f6d313c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 右繞佛塔功德經
   type: juan
   level: 1
-hash: sha256:dab149eae0ff46c94c6f6f468a017767e9db4381141bf93844a6adb158e249ef
+hash: sha256:7d8a06f075d7150b80179b6be9ef9009fc093e393df877bb53709beef531add9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
